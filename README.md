@@ -25,5 +25,4 @@ To view a demonstration of how this application works please click on this YouTu
 Nate Schroeder
 
 ## Github Repository
-https://github.com/n8dogg59/fantastic-umbrella
-
+https://github.com/n8dogg59/E-Commerce-Back-End-ORM
